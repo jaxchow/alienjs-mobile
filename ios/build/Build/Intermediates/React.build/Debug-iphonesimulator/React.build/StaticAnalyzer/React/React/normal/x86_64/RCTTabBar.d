@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Views/RCTView.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/jaxchow/workspace/hns/alienjs-mobile/node_modules/react-native/React/Views/UIView+React.h
