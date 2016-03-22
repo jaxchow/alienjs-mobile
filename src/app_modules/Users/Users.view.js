@@ -38,7 +38,7 @@ export {UsersForm}
  */
 class ListItemView extends Component{
   	onPress() {
-      Actions.booksFrom();
+    //  Actions.booksFrom();
   	}
     swipeoutBtns(){
       return [{text: 'remove',onPress:()=>alert("del")}]

@@ -57,6 +57,7 @@ class ListItemView extends Component{
   					<Text style={bookItemStyle.articleDate}>{model.format}</Text>
   					<Text style={bookItemStyle.articleContent}>{model.publisher}</Text>
   					<Text style={bookItemStyle.articleContent}>{model.isbn}</Text>
+  					<Text style={bookItemStyle.articleContent} numberOfLines={3}>{model.description}</Text>
           </View>
         </View>
   		)
